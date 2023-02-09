@@ -5,7 +5,7 @@
 # equal to n. Here, 0 <= i <= x; 0 <= j <= y; 0 <= k <= z
 
 # Input Format
-# Four integers x, y, z and N each on four separate lines, respectively.
+# Four integers x, y, z and n each on four separate lines, respectively.
 
 # Constraints
 # Print the list in lexicographic increasing order.
